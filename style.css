@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+@media(max-width: 600px){
+    #ayakkabılar{
+        background-color: whitesmoke;
+        
+    }
+    #tiket{
+        transform: rotate(180deg);
+        width: 30px;
+    }
+    #tiket2{
+        width: 28px;
+        margin-left: 310px;
+    }
+    .ayakkabı{
+        width: 150px;
+        height: 150px;
+        left: 15px;
+        display:inline-block;
+        margin-top: 15px;
+    }
+    .balance{
+        display: block;
+    }
+}
